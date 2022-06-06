@@ -20,6 +20,68 @@ color:#ffffff;
 font-size: 20px;
 
 }
+.header2 {
+background-color: cornflowerblue;
+height: 120px;
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+font-family: var;
+color:#ffffff;
+font-size: 20px;
+
+}
+.header3 {
+background-color: red;
+height: 120px;
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+font-family: var;
+color:#ffffff;
+font-size: 20px;
+
+}
+
+.header4 {
+background-color: black;
+height: 120px;
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+font-family: var;
+color:#ffffff;
+font-size: 20px;
+
+}
+
+.header5 {
+background-color: darkgrey;
+height: 120px;
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+font-family: var;
+color:#ffffff;
+font-size: 20px;
+
+}
+.header6 {
+background-color: darkred;
+height: 120px;
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+font-family: var;
+color:#ffffff;
+font-size: 20px;
+
+}
 
 .nav {
 display: flex;
